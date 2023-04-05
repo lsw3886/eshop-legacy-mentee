@@ -3,10 +3,10 @@
     <b-jumbotron class="text-center mb-0" :style="{backgroundColor: bannercolor}">
       <b-container>
         <h1 class="jumbotron-heading">
-            One-stop for Hipster Fashion &amp; Style Online
+            Three for Hipster Fashion &amp; Style Online
         </h1>
         <p class="lead text-muted">
-            Tired of mainstream fashion ideas, popular trends and
+            333 Tired of mainstream fashion ideas, popular trends and
             societal norms? This line of lifestyle products will help
             you catch up with the hipster trend and express your
             personal style. Start shopping hip and vintage items now!
